@@ -102,3 +102,29 @@ Upon successful completion, students will be able to:
 - Professional & Ethical Responsibilities
 
 ## Repository Structure
+```
+
+├── syllabus/          # Course syllabus document
+├── lectures/          # Weekly lecture slides and materials
+├── assignments/       # Homework assignments
+├── quizzes/           # Quiz materials
+├── exams/             # Midterm and final exams
+├── resources/         # Supplementary readings and textbooks
+└── project/           # Course project (if applicable)
+
+```
+
+## Instructor Contact
+
+**Eng. Rami Riad Lubbad**
+- University Email: [rlubbad@ucas.edu.ps](mailto:rlubbad@ucas.edu.ps)
+- Personal Email: [rlubbad@gmail.com](mailto:rlubbad@gmail.com)
+- Office Phone: (to be added)
+
+## License
+
+This repository is for educational purposes. All rights reserved to UCAS and the instructor.
+
+---
+*University College of Applied Sciences (UCAS)*
+```
