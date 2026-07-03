@@ -34,7 +34,10 @@ The presentation includes:
 - The application idea
 - Demonstration of the prototype
 
-# youtube **https://youtu.be/OIq6Yvs0q8M?si=aCUwtUtJeU6KP1QM**
+# youtube 
+**https://youtu.be/OIq6Yvs0q8M?si=aCUwtUtJeU6KP1QM**
 **
-# Github reposerity ** https://github.com/sarahabumandil/MedConnect** 
-# Deployment Interface **https://med-connect-pied.vercel.app/**
+# Github reposerity 
+**https://github.com/sarahabumandil/MedConnect** 
+# Deployment Interface 
+**https://med-connect-pied.vercel.app/**
