@@ -33,3 +33,8 @@ The presentation includes:
 - Why the tool was selected
 - The application idea
 - Demonstration of the prototype
+
+# youtube **https://youtu.be/OIq6Yvs0q8M?si=aCUwtUtJeU6KP1QM**
+**
+# Github reposerity ** https://github.com/sarahabumandil/MedConnect** 
+# Deployment Interface **https://med-connect-pied.vercel.app/**
